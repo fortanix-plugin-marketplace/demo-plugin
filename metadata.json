@@ -1,6 +1,7 @@
 {
+    "name": "Demo Plugin",
     "author": "Jack Lloyd",
-    "description": "A Test Plugin",
+    "description": "This is some short text about the plugin, what it does, etc",
     "keywords": ["testing", "hotdogs"],
-    "signature": "Abadbeef"
+    "signature": "Somebase64String"
 }
