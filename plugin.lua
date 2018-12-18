@@ -1,3 +1,3 @@
 function run(input)
-   return 42 + 666
+   return 42
 end
